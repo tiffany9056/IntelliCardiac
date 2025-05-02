@@ -4,7 +4,7 @@
 **[IntelliCardiac Web App](http://18.227.79.114:4000/)**
 
 ## Testing Data
-Sample testing data can be found in the `testing_image/` folder.
+Sample testing data can be found in the [testing_image/](testing_image/) folder.
 
 ## Introduction
 IntelliCardiac is a full-stack medical imaging web platform designed for cardiac segmentation and disease classification using cine MRI.
