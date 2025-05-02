@@ -16,10 +16,9 @@ These results outperform current state-of-the-art systems that integrate both se
 ## Demo Video
 Coming soon.
 
+## Contributors:
+Ting Yu Tsai, An Yu, Meghana Spurthi  Maadugundu, Ishrat Jahan Mohima, Umme Habiba Barsha, Mei-Hwa F. Chen, Ming-Ching Chang, Balakrishnan Prabhakaran
+
+
 ## Citation
 Coming soon. If you use this work, please cite our publication (TBD).
-
-
-## Contributors:
-
-Ting Yu Tsai, An Yu, Meghana Spurthi  Maadugundu, Ishrat Jahan Mohima, Umme Habiba Barsha, Mei-Hwa F. Chen, Ming-Ching Chang, Balakrishnan Prabhakaran
