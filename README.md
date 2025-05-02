@@ -14,7 +14,7 @@ By combining a deep learning-based segmentation model with a two-stage classific
 These results outperform current state-of-the-art systems that integrate both segmentation and classification. Supporting real-time visualization, workflow integration, and AI-assisted diagnostics, IntelliCardiac shows strong promise as a scalable, accurate tool for clinical decision-making in cardiac imaging.
 
 ## Demo Video
-Coming soon. If you use this work, please cite our publication (TBD).
+Coming soon.
 
 ## Citation
 Coming soon. If you use this work, please cite our publication (TBD).
