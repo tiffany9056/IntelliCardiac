@@ -4,7 +4,12 @@
 **[IntelliCardiac Web App](http://18.227.79.114:4000/)**
 
 ## Testing Data
-Sample testing data can be found in the [testing_image/](testing_image/) folder.
+**Sample testing data** can be found in the [testing_image/](testing_image/) folder.
+
+**Patient guest user you can use:**  
+- **Username:** `guest123`  
+- **Password:** `Pass1234`
+
 
 ## Introduction
 IntelliCardiac is a full-stack medical imaging web platform designed for cardiac segmentation and disease classification using cine MRI.
@@ -15,14 +20,15 @@ These results outperform current state-of-the-art systems that integrate both se
 
 
 ## Overview of IntelliCardiac system pipeline
-<img src="https://github.com/user-attachments/assets/5329a135-397b-40e9-bb37-030c949b3d5d" height="300"/>
+<img src="https://github.com/user-attachments/assets/5329a135-397b-40e9-bb37-030c949b3d5d" width="600"/>
 
 ## Cardiac Image Process Architecture in the System:
-<img src="https://github.com/user-attachments/assets/2ed1246a-43b4-426a-8ee1-a8e42bf09200" height="400"/>
+<img src="https://github.com/user-attachments/assets/2ed1246a-43b4-426a-8ee1-a8e42bf09200" width="600"/>
 
 ## Demo Video
-<img width="1915" alt="Screenshot 2025-05-03 at 7 13 09 PM" src="https://github.com/user-attachments/assets/da6ff659-6f2e-49ca-b586-1355a47608ec" />
-
+<a href="https://www.youtube.com/watch?v=pIJTYQt0mTI&list=PLSQub-M9Idos0JTEIylqGn5x_ROq3BQcF" target="_blank">
+  <img src="https://github.com/user-attachments/assets/da6ff659-6f2e-49ca-b586-1355a47608ec" width="600">
+</a>
 
 ## Contributors:
 Ting Yu Tsai, An Yu, Meghana Spurthi  Maadugundu, Ishrat Jahan Mohima, Umme Habiba Barsha, Mei-Hwa F. Chen, Ming-Ching Chang, Balakrishnan Prabhakaran
