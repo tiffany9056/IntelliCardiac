@@ -21,7 +21,8 @@ These results outperform current state-of-the-art systems that integrate both se
 <img src="https://github.com/user-attachments/assets/2ed1246a-43b4-426a-8ee1-a8e42bf09200" height="400"/>
 
 ## Demo Video
-Coming soon.
+<img width="1915" alt="Screenshot 2025-05-03 at 7 13 09 PM" src="https://github.com/user-attachments/assets/da6ff659-6f2e-49ca-b586-1355a47608ec" />
+
 
 ## Contributors:
 Ting Yu Tsai, An Yu, Meghana Spurthi  Maadugundu, Ishrat Jahan Mohima, Umme Habiba Barsha, Mei-Hwa F. Chen, Ming-Ching Chang, Balakrishnan Prabhakaran
