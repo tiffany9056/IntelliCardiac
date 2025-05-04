@@ -30,7 +30,7 @@ These results outperform current state-of-the-art systems that integrate both se
   <img src="https://github.com/user-attachments/assets/da6ff659-6f2e-49ca-b586-1355a47608ec" width="600">
 </a>
 
-## User Warning 
+## User Warning!!!!!!!
 Please note: Our platform is not yet connected to the official doctors’ license database, so we are currently unable to verify the authenticity of doctors. We advise you not to upload highly private or sensitive data at this stage. In the future, we plan to continue improving the platform and aim to integrate with the doctors’ license database to help verify doctors and better protect patient data privacy.
 
 For now, you can use our guest account to log in and a test image to try out the platform.
