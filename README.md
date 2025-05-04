@@ -6,6 +6,9 @@ Please note: Our platform is not yet connected to the official doctors’ licens
 
 For now, you can use our guest account to log in and a test image to try out the platform.
 
+## Legal Notice:
+All rights to this platform and its content are reserved by the University at Albany (UAlbany). If you accidentally upload sensitive information that you do not wish to share with unverified doctors, please promptly update your privacy settings by setting the record to “Private” under the Manage Privacy section on the Check History page. If you would like your account and all associated data to be permanently deleted from this platform, please contact a member of the development team.
+
 ## Application link
 **[IntelliCardiac Web App](http://18.227.79.114:4000/)**
 
