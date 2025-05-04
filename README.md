@@ -3,6 +3,7 @@
 
 ## User Warning!!
 Please note: Our platform is not yet connected to the official doctors’ license database, so we are currently unable to verify the authenticity of doctors. We advise you not to upload highly private or sensitive data at this stage. 
+
 For now, you can use our guest account to log in and a test image to try out the platform.
 
 ## Legal Notice:
