@@ -31,6 +31,9 @@ These results outperform current state-of-the-art systems that integrate both se
 </a>
 
 ## User Warning 
+Please note: Our platform is not yet connected to the official doctors’ license database, so we are currently unable to verify the authenticity of doctors. We advise you not to upload highly private or sensitive data at this stage. In the future, we plan to continue improving the platform and aim to integrate with the doctors’ license database to help verify doctors and better protect patient data privacy.
+
+For now, you can use our guest account to log in and a test image to try out the platform.
 
 ## Contributors:
 Ting Yu Tsai, An Yu, Meghana Spurthi  Maadugundu, Ishrat Jahan Mohima, Umme Habiba Barsha, Mei-Hwa F. Chen, Ming-Ching Chang, Balakrishnan Prabhakaran
