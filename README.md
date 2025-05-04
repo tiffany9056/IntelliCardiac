@@ -1,5 +1,5 @@
 # IntelliCardiac
-Please read this README file carfully before you try our platform!
+## Please read this README file carfully before you try our platform!
 ## Application link
 **[IntelliCardiac Web App](http://18.227.79.114:4000/)**
 
