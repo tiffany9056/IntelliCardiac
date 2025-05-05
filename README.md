@@ -19,6 +19,7 @@ All rights to this platform and its content are reserved by the University at Al
 - **Username:** `guest123`  
 - **Password:** `Pass1234`
 
+❗️**Important:** After the patient uploads an image, please wait approximately 1 minute for the results to appear. Do not refresh the page during this time, as it may interrupt the processing.
 
 ## Introduction
 IntelliCardiac is a full-stack medical imaging web platform designed for cardiac segmentation and disease classification using cine MRI.
