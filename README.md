@@ -1,4 +1,5 @@
 # IntelliCardiac
+This repository is the official implementation of our paper [IntelliCardiac: An Intelligent Platform for Cardiac Image Segmentation and Classification](https://arxiv.org/abs/2505.03838).
 ## This platform is a prototype and not intended for industry-level or commercial use.
 
 ## User Warning!!
@@ -44,4 +45,16 @@ These results outperform current state-of-the-art systems that integrate both se
 Ting Yu Tsai, An Yu, Meghana Spurthi  Maadugundu, Ishrat Jahan Mohima, Umme Habiba Barsha, Mei-Hwa F. Chen, Ming-Ching Chang, Balakrishnan Prabhakaran
 
 ## Citation
-Coming soon. If you use this work, please cite our publication (TBD).
+Please kindly consider citing our papers in your publications. 
+```bash
+@misc{tsai2025intellicardiac,
+      title={IntelliCardiac: An Intelligent Platform for Cardiac Image Segmentation and Classification}, 
+      author={Ting Yu Tsai and An Yu and Meghana Spurthi Maadugundu and Ishrat Jahan Mohima and Umme Habiba Barsha and Mei-Hwa F. Chen and Balakrishnan Prabhakaran and Ming-Ching Chang},
+      year={2025},
+      eprint={2505.03838},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2505.03838}, 
+}
+```
+
