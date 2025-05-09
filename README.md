@@ -2,7 +2,7 @@
 This repository is the official implementation of our paper [IntelliCardiac: An Intelligent Platform for Cardiac Image Segmentation and Classification](https://arxiv.org/abs/2505.03838).
 ## This platform is a prototype and not intended for industry-level or commercial use.
 
-## User Warning!!
+## ❗️User Warning❗️
 Please note: Our platform is not yet connected to the official doctors’ license database, so we are currently unable to verify the authenticity of doctors. We advise you not to upload highly private or sensitive data at this stage. 
 
 For now, you can use our guest account to log in and a test image to try out the platform.
